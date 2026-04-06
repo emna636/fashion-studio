@@ -1,0 +1,29 @@
+# Flutter
+Frontend/.dart_tool/
+Frontend/build/
+Frontend/.flutter-plugins
+Frontend/.flutter-plugins-dependencies
+Frontend/.packages
+Frontend/.pub-cache/
+Frontend/.pub/
+Frontend/.idea/
+Frontend/*.iml
+Frontend/.metadata
+
+# Java / Spring
+Backend/**/target/
+Backend/**/.classpath
+Backend/**/.project
+Backend/**/.settings/
+
+# Env / secrets
+**/.env
+**/.env.*
+**/*secrets*
+
+# OS / IDE
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.log

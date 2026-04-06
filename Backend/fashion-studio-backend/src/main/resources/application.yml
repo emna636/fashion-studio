@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: fashion-studio-backend
+
+server:
+  port: ${PORT:8080}
