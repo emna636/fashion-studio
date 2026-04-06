@@ -19,7 +19,6 @@ Backend/**/.settings/
 # Env / secrets
 **/.env
 **/.env.*
-**/*secrets*
 
 # OS / IDE
 .DS_Store
